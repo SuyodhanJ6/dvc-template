@@ -1,2 +1,1 @@
-# deep Classifier project
-
+# DVC Project Template
